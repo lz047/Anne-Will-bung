@@ -1,0 +1,31 @@
+from,to,relationship
+uvl,CDU,1
+uvl,500,2
+lk,SPD,1
+lk,500,2
+nr,CDU,1
+nr,500,2
+sw,Die Linke,1
+sw,500,2
+cs,500,2
+cl,FDP,1
+cl,501,2
+nr,501,2
+ks,501,2
+lm,501,2
+kd,501,2
+el,501,2
+ab,Die Grünen,1
+ab,502,2
+ft,502,2
+am,502,2
+ag,502,2
+ag,FDP,1
+eg,502,2
+rh,503,2
+rh,Die Grünen,1
+lk,503,2
+cm,503,2
+kp,503,2
+rk,CDU,1
+rk,503,2
